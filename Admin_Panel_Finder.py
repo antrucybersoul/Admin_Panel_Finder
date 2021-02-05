@@ -56,8 +56,8 @@ print('''
 +--------------------------------------------------------+
 |[!]Author   :     AN7RU__CYB3R_50UL                     |
 |[!]Contact : https://instagram.com/antru__cyber_soul    |
-|[!]Date       :          02/02/2021                     |
-|[!]Antru :🌐ᴄʏᷧʙᷠᴇͭʀͬ_sͧᴏᴜʟ>>>>ᴅᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴡʜᴏ ɪᴀᴍ🌐          |
+|[!]Date   :          02/02/2021                         |
+|[!]Antru  :    🌐ᴄʏᷧʙᷠᴇͭʀͬ_sͧᴏᴜʟ>>>>ᴅᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴡʜᴏ ɪᴀᴍ🌐     |
 |[!]This tool is made for pentesting.                    |
 |[!]Changing the Description of this tool                |
 |Won't made you the coder                                |
